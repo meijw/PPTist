@@ -193,13 +193,6 @@ PPTist/
 
 👉 **在线体验**：[https://pipipi-pikachu.github.io/PPTist/](https://pipipi-pikachu.github.io/PPTist/)
 
-## 📖 文档
-
-- [常见问题 (FAQ)](doc/Q&A.md)
-- [项目目录和数据结构](doc/DirectoryAndData.md)
-- [画布和元素基础](doc/Canvas.md)
-- [如何自定义元素](doc/CustomElement.md)
-- [关于 AI PPT](doc/AIPPT.md)
 
 ## 🔧 开发指南
 
@@ -245,7 +238,6 @@ mvn test
 更多开发细节请参考：
 - 前端开发指南：[pptist-frontend/README.md](pptist-frontend/README.md)
 - 后端开发指南：[pptist-backend/README.md](pptist-backend/README.md)
-- 后端 AI 开发指南：[pptist-backend/AGENTS.md](pptist-backend/AGENTS.md)
 
 ## 🤝 贡献
 
